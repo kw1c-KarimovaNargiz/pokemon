@@ -25,7 +25,7 @@
                         <tr>
                             {{-- <td>{{ $pokemon['Pokemon ID'] }}</td> --}}
                             <td>{{ $pokemon['Name'] }}</td>
-                            <td>{{$pokemon['Name etymology']}}</td>
+                            <td>{{$pokemon['Type 1']}}</td>
                             <td>{{ $pokemon['Height'] }}</td>
                             <td>{{ $pokemon['Weight'] }}</td>
                         </tr>
